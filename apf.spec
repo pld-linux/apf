@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Active Port Forwarder is a software tool for secure port forwarding.
 It uses SSL to increase security of communication between a server and
-a client. APF is dedicated for people, who don't have an external ip
+a client. APF is dedicated for people, who don't have an external IP
 number and want to make some services available across the net.
 Moreover, zlib is used to compress the transferred data. Using one,
 permanent data/control channel with flow control/packet buffering
