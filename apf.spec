@@ -1,5 +1,5 @@
 Summary:	Active Port Forwarder - SSL secure packet tunneling
-Summary(pl):	Active Port Forwarder - bezpieczne tunelowanie pakietów poprzez SSL
+Summary(pl.UTF-8):   Active Port Forwarder - bezpieczne tunelowanie pakietÃ³w poprzez SSL
 Name:		apf
 Version:	0.7.5
 Release:	0.1
@@ -26,17 +26,17 @@ provides good performance and reasonably small latency. Running
 afserver does not require root priviledges, nor does it use threads or
 other processes.
 
-%description -l pl
-Active Port Forwarder jest narzêdziem do bezpiecznego tunelowania
-po³±czeñ. Dla zwiêkszenia bezpieczeñstwa komunikacji miêdzy serwerem a
-klientem u¿ywana jest biblioteka SSL. APF zosta³ zaprojektowany z
-my¶l± o ludziach nie posiadaj±cych zewnêtrznych numerów IP, którzy
-chcieliby udostêpniæ ¶wiatu jakie¶ us³ugi. Ponadto, biblioteka zlib
-jest u¿ywana do kompresowania przesy³anych danych. U¿ycie jednego
-po³±czenia dla danych u¿ytkownika/steruj±cych, wraz z kontrol±
-przesy³u/buforowaniem pakietów, umo¿liwia osi±gniêcie dobrej
-wydajno¶ci i rozs±dnie ma³ych opó¼nieñ. afserver nie potrzebuje
-uprawnieñ roota, nie u¿ywa w±tków ani innych procesów.
+%description -l pl.UTF-8
+Active Port Forwarder jest narzÄ™dziem do bezpiecznego tunelowania
+poÅ‚Ä…czeÅ„. Dla zwiÄ™kszenia bezpieczeÅ„stwa komunikacji miÄ™dzy serwerem a
+klientem uÅ¼ywana jest biblioteka SSL. APF zostaÅ‚ zaprojektowany z
+myÅ›lÄ… o ludziach nie posiadajÄ…cych zewnÄ™trznych numerÃ³w IP, ktÃ³rzy
+chcieliby udostÄ™pniÄ‡ Å›wiatu jakieÅ› usÅ‚ugi. Ponadto, biblioteka zlib
+jest uÅ¼ywana do kompresowania przesyÅ‚anych danych. UÅ¼ycie jednego
+poÅ‚Ä…czenia dla danych uÅ¼ytkownika/sterujÄ…cych, wraz z kontrolÄ…
+przesyÅ‚u/buforowaniem pakietÃ³w, umoÅ¼liwia osiÄ…gniÄ™cie dobrej
+wydajnoÅ›ci i rozsÄ…dnie maÅ‚ych opÃ³ÅºnieÅ„. afserver nie potrzebuje
+uprawnieÅ„ roota, nie uÅ¼ywa wÄ…tkÃ³w ani innych procesÃ³w.
 
 %prep
 %setup -q
