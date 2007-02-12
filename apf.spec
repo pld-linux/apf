@@ -1,5 +1,5 @@
 Summary:	Active Port Forwarder - SSL secure packet tunneling
-Summary(pl.UTF-8):   Active Port Forwarder - bezpieczne tunelowanie pakietów poprzez SSL
+Summary(pl.UTF-8):	Active Port Forwarder - bezpieczne tunelowanie pakietów poprzez SSL
 Name:		apf
 Version:	0.7.5
 Release:	0.1
