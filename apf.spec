@@ -1,12 +1,12 @@
 Summary:	Active Port Forwarder - SSL secure packet tunneling
 Summary(pl.UTF-8):	Active Port Forwarder - bezpieczne tunelowanie pakietów poprzez SSL
 Name:		apf
-Version:	0.7.5
+Version:	0.8.3
 Release:	0.1
 License:	GPL v2
 Group:		Applications/Networking
 Source0:	http://gray-world.net/projects/af/%{name}-%{version}.tgz
-# Source0-md5:	25c5b192adb6ff2763f4f2106065dbba
+# Source0-md5:	a70713279ce53e4aa6255deddbdb0f6b
 URL:		http://xmlindent.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
